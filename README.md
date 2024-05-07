@@ -1,2 +1,2 @@
 # VSCodeRepo
-buraya birşeyler yazıyorum
+değiştirmek itiyorum ama olmuyor!!!!!!
