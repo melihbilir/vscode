@@ -1,1 +1,2 @@
 # VSCodeRepo
+test amaçlıdır..
