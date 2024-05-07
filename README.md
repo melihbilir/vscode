@@ -1,1 +1,2 @@
 # VSCodeRepo
+buraya birşeyler yazıyorum
